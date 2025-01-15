@@ -5,4 +5,3 @@ if num == 9:
 else:
     print("incorrect")
 print("hello world")
-print("hello world")
